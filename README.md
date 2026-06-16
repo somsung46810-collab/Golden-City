@@ -1,12 +1,13 @@
 # Golden City
 
-Golden City is a glowing browser-based city animation inspired by the provided golden city template image. It renders a futuristic gold skyline with a starfield, perspective grid, circular platform rings, and orbital light arcs.
+Golden City is a browser-ready visual project with a polished golden city image and a procedural Golden City canvas animation inspired by the provided template artwork.
 
 ## Files
 
-- `index.html` — Page entry point.
-- `style.css` — Full-screen canvas styling.
-- `script.js` — Procedural Golden City animation.
+- `index.html`: page entry point
+- `style.css`: full-screen visual styling
+- `script.js`: procedural Golden City animation
+- `docs/PROCESS.md`: polished image workflow notes
 
 ## Run locally
 
@@ -20,15 +21,8 @@ Then open the local URL shown in the terminal.
 
 ## Visual concept
 
-The scene uses:
+The project presents a cinematic golden city with glowing architecture, a deep night-sky atmosphere, luminous roads, circular platform rings, and enhanced gold contrast.
 
-- gold skyscrapers on a circular platform
-- deep night-sky starfield
-- glowing perspective grid
-- animated city rotation
-- dashed orbital light arcs
-- cinematic Golden City title overlay
-
-## Repository
+## Static hosting
 
 This repo is ready for GitHub Pages or any static hosting service.
